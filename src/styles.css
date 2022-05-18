@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  margin: 100px auto;
+  width: 30%;
+}
+
+.box {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 20px;
+  margin: 5px;
+}
+.active {
+  background-color: yellow;
+}
